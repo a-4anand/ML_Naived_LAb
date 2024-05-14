@@ -1,0 +1,53 @@
+## LAB01
+
+# Auther: Anand Kumar Dubey
+23122005
+3MSCDSA
+
+
+
+# Predicting California Housing Prices
+
+## Overview
+This project aims to predict housing prices in California using a Linear Regression model. We explore the California Housing dataset, perform exploratory data analysis (EDA), preprocess the data, build and evaluate a Linear Regression model, and tune its hyperparameters to optimize performance.
+
+## Dataset
+The California Housing dataset includes various metrics such as median income, housing median age, average room numbers, average bedroom numbers, population, average occupancy, latitude, and longitude of block groups in California.
+
+## File Description
+- **california_housing.ipynb**: Jupyter Notebook containing the code implementation.
+- **california_housing.html**: HTML export of the Jupyter Notebook.
+- **california_housing.pdf**: PDF export of the Jupyter Notebook.
+- **README.md**: Overview of the project.
+
+## Usage
+1. Clone the repository:
+
+```
+git clone https://github.com/your-username/california-housing-prediction.git
+cd california-housing-prediction
+```
+
+2. Install the required libraries:
+
+```
+pip install -r requirements.txt
+```
+
+3. Run the Jupyter Notebook:
+
+```
+jupyter notebook california_housing.ipynb
+```
+
+4. Follow the instructions in the notebook to execute each code cell.
+
+## Libraries Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Conclusion
+This project provides insights into predicting housing prices using machine learning techniques. By leveraging EDA, model building, and hyperparameter tuning, we aim to develop an accurate predictive model for California housing prices.
